@@ -26,16 +26,16 @@ global.ig = 'https://www.instagram.com/hikal_857/?hl=id' // ubah aja
 global.email = 'biannn81@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'GAZ MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'GAZ MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'GAZ MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'NAUFAL BOTS' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'NAUFAL BOTS' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'NAUFAL BOTS' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6288221946848','6282113134295','62882006726140','6288973746471','6283823140458','6282267261286','6281336807288','6281235650645','6285730671287','6287720994666','601151944486','6285730671287','6283893413774','6282252704399','6283832287162','6285782844549','6285640664987','62882868309263','6282143152675','628989744665','6281341125307','62887437118917'] // ubah aja pake nomor lu
-global.premium = ['62882006726140','6288973746471'] // ubah aja pake nomor lu
-global.packname = 'GAZ MODS WA' // ubah aja
-global.ownerr = ['GAZ MODS WA'] // ubaha aja
-global.author = 'GAZ MODS WA' //ubah aja
+global.owner = ['62895355371734'] // ubah aja pake nomor lu
+global.premium = ['62895355371734'] // ubah aja pake nomor lu
+global.packname = 'NAUFAL BOTS' // ubah aja
+global.ownerr = ['NAUFAL BOTS'] // ubaha aja
+global.author = 'NAUFAL BOTS' //ubah aja
 global.sessionName =  'session' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
